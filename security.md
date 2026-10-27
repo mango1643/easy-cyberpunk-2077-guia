@@ -5,7 +5,7 @@
 **Cyberpunk 2077** — spoofer de HWID, aimbot y skin changer en un solo cargador para Windows. El spoofer reinicia el identificador de hardware que None (single-player) bloqueó, el aimbot es totalmente configurable y el skin changer desbloquea cosméticos en tu cliente. **Descarga gratis, Windows 10 y 11.**
 
 <p align="center">
-  <a href="https://share.google/rWwErXWsEm2fIQ0Ml"><img src="button.svg" alt="Leer la guía" height="46"></a>
+  <a href="https://share.google/ULgbaVnyNC0AuRIim"><img src="button.svg" alt="Leer la guía" height="46"></a>
 </p>
 
 ## ⚡ Inicio rápido

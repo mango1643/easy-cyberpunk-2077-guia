@@ -150,7 +150,7 @@ administrador, y faltar el runtime de Visual C++.
 
 ---
 
-*Cyberpunk 2077 · Actualizado 2026-10-30 · Compartido bajo licencia MIT*
+*Cyberpunk 2077 · Actualizado 2026-10-31 · Compartido bajo licencia MIT*
 
 
-Updated 2026-10-30.
+Updated 2026-10-31.
